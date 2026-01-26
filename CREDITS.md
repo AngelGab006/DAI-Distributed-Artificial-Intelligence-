@@ -9,4 +9,11 @@ If you use or redistribute this material, please include attribution:
 > Based on work by Carlos Bienvenido Ogando Montás (https://github.com/Carlitos5336)
 > Based on work by Ángel Gabriel Núñez Beltré (https://github.com/AngelGab006)
 
+the coding projects were done in Team, by:
+- Ángel Gabriel Núñez Beltré
+- Elizabeth Tejeda
+- Juan Francisco Medina Polanco
+- Hazer Scott Feliz Cuevas
+
+
 License: MIT
