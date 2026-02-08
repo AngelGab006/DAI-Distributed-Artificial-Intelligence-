@@ -15,3 +15,4 @@ This repository, have two main parts:
 
 1 - Preguntas de Investigacion DAI
 2 - Ensayo DAI
+3 - Preguntas de investigación sobre inteligencia colectiva
