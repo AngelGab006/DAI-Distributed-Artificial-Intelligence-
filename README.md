@@ -13,10 +13,11 @@ This repository, have two main parts:
 ### Portfolio
 ##### Here you will find the investigation part of my learning, these are the investigations I have done so far in the course:
 
-1 - Preguntas de Investigacion DAI
+Portfolio 1
+    1 - Preguntas de Investigacion DAI
 
-2 - Ensayo DAI
+    2 - Ensayo DAI
 
-3 - Preguntas de investigación sobre inteligencia colectiva
+    3 - Preguntas de investigación sobre inteligencia colectiva
 
-4 - Ejercicio ACO
+    4 - Ejercicio ACO
