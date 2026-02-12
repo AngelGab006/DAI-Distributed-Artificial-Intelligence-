@@ -18,3 +18,5 @@ This repository, have two main parts:
 2 - Ensayo DAI
 
 3 - Preguntas de investigación sobre inteligencia colectiva
+
+4 - Ejercicio ACO
