@@ -21,3 +21,5 @@ Portfolio 1
     3 - Preguntas de investigación sobre inteligencia colectiva
 
     4 - Ejercicio ACO
+    
+Portafolio 1.pdf
